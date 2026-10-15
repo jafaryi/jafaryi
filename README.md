@@ -117,13 +117,7 @@ Research collaboration focused on modeling eye movement trajectories using Tempo
 
 </div>
 
-<h3 align="center">3D Contribution Graph</h3>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
-       alt="3D GitHub Contribution Graph"
-       width="100%">
-</div>
 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafaryi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
