@@ -103,4 +103,14 @@ Research collaboration focused on modeling eye movement trajectories using Tempo
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jafaryi&theme=github-dark)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jafaryi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafaryi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=jafaryi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
