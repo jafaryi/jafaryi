@@ -15,7 +15,7 @@ I'm a Computer Engineering student at the University of Pavia, focusing on Machi
 
 I'm currently collaborating with a research team at the University of Lisbon on **Eye Movement Trajectory Modeling using Temporal Convolutional Networks (TCNs)**.
 
-### 🛠️ Technical Stack
+
 
 ### 🛠️ Technical Stack
 
