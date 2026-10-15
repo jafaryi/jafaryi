@@ -108,14 +108,12 @@ Research collaboration focused on modeling eye movement trajectories using Tempo
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jafaryi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ---
----
-
-### 🐍 Contribution Snake
+<h3 align="center">3D Contribution Graph</h3>
 
 <div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/jafaryi/jafaryi/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       alt="3D GitHub Contribution Graph"
+       width="100%">
 </div>
 
 
