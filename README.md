@@ -74,6 +74,22 @@ Research collaboration focused on modeling eye movement trajectories using Tempo
 - **Focus:** Monitoring and mitigating DDoS-like traffic in a small web infrastructure.
 
 ---
+---
+
+### 🌍 Education & Research
+
+- 🎓 **University of Pavia, Italy** — Computer Engineering | Software Engineering
+- 🔬 **University of Lisbon, Portugal** — Research Collaboration in Eye Movement Trajectory Modeling using TCNs
+
+---
+
+### 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-jafaryi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jafaryi)
+
+<!-- Add LinkedIn and professional email badges here when available. -->
+
+---
 
 
 ### 📊 GitHub Stats
