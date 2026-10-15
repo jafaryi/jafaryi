@@ -11,7 +11,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jafaryi&color=blueviolet&style=flat-square)
 
 </div>
 
