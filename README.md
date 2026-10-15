@@ -36,6 +36,27 @@ I'm currently collaborating with a research team at the University of Lisbon on 
 
 Research collaboration focused on modeling eye movement trajectories using Temporal Convolutional Networks (TCNs).
 
+---
+
+### 🚀 Featured AI & Engineering Projects
+
+#### 👁️ [Eye Trajectory Modeling](https://github.com/jafaryi/Eye_Trajectory)
+- **Area:** Deep Learning & Eye Movement Analysis
+- **Architecture:** Temporal Convolutional Network (TCN)
+- **Focus:** Modeling eye movement trajectories using deep learning techniques.
+
+#### 🛡️ [DDoS Monitoring & Mitigation](https://github.com/jafaryi/DDOS)
+- **Area:** Network Security & Software Development
+- **Tech:** Python
+- **Focus:** Monitoring and mitigating DDoS-like traffic in a small web infrastructure.
+
+#### 🧠 [Data Augmentation](https://github.com/jafaryi/DataAugmentation)
+- **Area:** Machine Learning & Data Processing
+- **Focus:** Data augmentation techniques using rotation and zoom transformations.
+
+---
+
+
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jafaryi&theme=github-dark)
