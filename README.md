@@ -38,21 +38,40 @@ Research collaboration focused on modeling eye movement trajectories using Tempo
 
 ---
 
+---
+
 ### 🚀 Featured AI & Engineering Projects
 
-#### 👁️ [Eye Trajectory Modeling](https://github.com/jafaryi/Eye_Trajectory)
-- **Area:** Deep Learning & Eye Movement Analysis
-- **Architecture:** Temporal Convolutional Network (TCN)
-- **Focus:** Modeling eye movement trajectories using deep learning techniques.
+#### 👁️ Robotic Eye — Deep Learning for Eye Movement Control
+- **Area:** Robotics, Deep Learning & Computer Vision
+- **Architecture:** U-Net-based model
+- **Highlight:** A novel approach to controlling robotic eye movement using a U-Net-based model.
+- **Repository:** Private
+
+#### 🧠 Attention U-Net
+- **Area:** Deep Learning & Neural Network Architectures
+- **Focus:** Implementation and exploration of Attention U-Net.
+- **Repository:** Private
+
+#### 🎯 Object Detection with YOLO
+- **Area:** Computer Vision & Object Detection
+- **Focus:** Working with YOLO-based object detection models.
+- **Repository:** Private
+
+#### 🧬 [Cancer Classification](https://github.com/jafaryi/canser-classification)
+- **Area:** Machine Learning & Classification
+- **Tech:** Python
+- **Focus:** Classification using cancer-related data.
+
+#### 🖼️ [Image Augmentation](https://github.com/jafaryi/rotation-image-for-augmentation)
+- **Area:** Image Processing & Data Augmentation
+- **Tech:** Python
+- **Focus:** Image rotation for data augmentation.
 
 #### 🛡️ [DDoS Monitoring & Mitigation](https://github.com/jafaryi/DDOS)
-- **Area:** Network Security & Software Development
+- **Area:** Network Security
 - **Tech:** Python
 - **Focus:** Monitoring and mitigating DDoS-like traffic in a small web infrastructure.
-
-#### 🧠 [Data Augmentation](https://github.com/jafaryi/DataAugmentation)
-- **Area:** Machine Learning & Data Processing
-- **Focus:** Data augmentation techniques using rotation and zoom transformations.
 
 ---
 
