@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mohammadreza Jafari</h1>
-<h3 align="center">AI & Machine Learning Researcher | Software Developer</h3>
+<div align="center">
 
-<p align="center">
-  🎓 Computer Engineering @ University of Pavia <br>
-  🔬 AI Research Collaboration @ University of Lisbon <br>
-  🤖 Machine Learning • Deep Learning • Robotics
-</p>
+# Hi 👋, I'm Mohammadreza Jafari
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+%7C+Computer+Vision;Software+Developer+%7C+Robotics;Eye+Movement+Trajectory+Modeling" alt="Typing SVG" />
+
+<br>
+
+![University of Pavia](https://img.shields.io/badge/University_of_Pavia-Computer_Engineering-0057A8?style=for-the-badge&logo=googlescholar&logoColor=white)
+![University of Lisbon](https://img.shields.io/badge/University_of_Lisbon-AI_Research-7B2CBF?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jafaryi&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
+
+
 
 ### 👨‍💻 About Me
 
